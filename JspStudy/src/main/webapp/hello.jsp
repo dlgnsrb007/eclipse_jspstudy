@@ -19,5 +19,6 @@ out.println("<h1>"+"str="+str+"</h1>");//out->화면에 출력시켜주는 내�
 	</script>
 */
 %>
+<%=str %>
 </body>
 </html>
